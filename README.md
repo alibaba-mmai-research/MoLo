@@ -1,5 +1,5 @@
 # MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition (CVPR-2023)
-### Official Pytorch Implementation of MoLo
+### Official Pytorch Implementation of [MoLo](https://arxiv.org/abs/2304.00946)
 
 <img src = "MoLo_arch.png" width="800">
 
